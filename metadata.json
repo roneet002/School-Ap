@@ -1,0 +1,6 @@
+{
+  "name": "Devraj School Portal & ERP",
+  "description": "Comprehensive cross-platform School Management ERP with Student Attendance, Fees & Stripe Payment, Exam Reports, Teacher Portal, Live Chat, and Firebase Push Notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
